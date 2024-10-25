@@ -1,0 +1,9 @@
+# Ignore all markdown files
+*.md
+
+# Ignore all hidden files (files starting with a dot)
+#.*
+# But not the .gitignore file itself
+#!.gitignore
+#!.github/workflows/azure-deploy.yaml
+# add anyore below this line
