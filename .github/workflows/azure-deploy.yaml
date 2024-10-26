@@ -28,4 +28,4 @@ jobs:
       uses: azure/cli@v1
       with:
         inlineScript: |
-          az cdn endpoint purge --resource-group rrr-personal-space --profile-name rrr-CDN-classic --name cvryanrothwell --content-paths '/*'
+          az cdn endpoint purge --resource-group rrr-personal-space --profile-name rrr-CDN-classic --name cv-ryanrothwell --content-paths '/*'
