@@ -76,6 +76,11 @@ section {
     margin-bottom: 15px;
 }
 
+/* hide by default */
+.job ul {
+    display: none;
+}
+
 .job-title {
     cursor: pointer;
     background-color: var(--job-title-bg);
